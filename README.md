@@ -1,4 +1,4 @@
-# Gu�a de Ejercicios F�sicos
+# Guia de Ejercicios Fisicos
 
 Bienvenido a nuestra guia de ejercicios fisicos, donde compartimos descripciones y beneficios de diferentes tipos de ejercicios.
 
