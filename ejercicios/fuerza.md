@@ -13,3 +13,6 @@ Ejercicios que utilizan resistencia para desarrollar la masa muscular y la fuerz
 2. Realiza 3 series de 10 repeticiones.
 3. Descansa 1 minuto entre series.
 
+## Consejos
+- Cuida la tecnica antes de subir el peso.
+- No contengas la respiracion.
