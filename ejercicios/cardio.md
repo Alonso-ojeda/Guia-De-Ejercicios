@@ -1,5 +1,5 @@
 # Ejercicio Cardio
 
-## Descripción
-Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y mejoran la resistencia.
+## Descripciï¿½n
+Los ejercicios de cardio son actividades que aumentan tu frecuencia cardiaca y mejoran la resistencia.
 
