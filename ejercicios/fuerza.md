@@ -8,3 +8,8 @@ Ejercicios que utilizan resistencia para desarrollar la masa muscular y la fuerz
 - Fortalece los huesos.
 - Mejora la postura.
 
+## Instrucciones
+1. Selecciona el peso adecuado.
+2. Realiza 3 series de 10 repeticiones.
+3. Descansa 1 minuto entre series.
+
